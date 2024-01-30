@@ -1,0 +1,6 @@
+print("              Age Calculator\n")
+birth = int(input("Enter your Birth Year: "))
+age = float( 2024 - birth)
+height = float(input("Enter your Height: "))
+print("Your are", age,"Years Old")
+print("Your height is: ", height,"Meters")
